@@ -2,14 +2,14 @@
 * The Software Guild
 * Copyright (C) 2020 Wiley edu LLC - All Rights Reserved
 *********************************/
-package classroster.ui;
+package studentquizscores.ui;
 
 /**
  * TSG Official Implementation of the UserIO interface
  * May your view be ever in your favor!
  * @author ahill
  */
-import classroster.ui.UserIO;
+import studentquizscores.ui.UserIO;
 import java.util.Scanner;
 
 public class UserIOConsoleImpl implements UserIO {

@@ -1,4 +1,4 @@
-package classroster.ui;
+package studentquizscores.ui;
 
 /**
  *

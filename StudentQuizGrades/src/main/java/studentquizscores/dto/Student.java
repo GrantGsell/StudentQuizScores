@@ -1,4 +1,4 @@
-package classroster.dto;
+package studentquizscores.dto;
 
 import java.util.ArrayList;
 

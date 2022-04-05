@@ -1,9 +1,9 @@
-package com.mycompany.studentquizgrades;
+package studentquizscores.top;
 
-import classroster.dto.Student;
-import classroster.ui.ClassRosterView;
-import classroster.ui.UserIO;
-import classroster.ui.UserIOConsoleImpl;
+import studentquizscores.dto.Student;
+import studentquizscores.ui.ClassRosterView;
+import studentquizscores.ui.UserIO;
+import studentquizscores.ui.UserIOConsoleImpl;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

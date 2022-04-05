@@ -1,5 +1,5 @@
-package classroster.ui;
-import classroster.dto.Student;
+package studentquizscores.ui;
+import studentquizscores.dto.Student;
 import java.util.ArrayList;
 import java.util.List;
 /**
